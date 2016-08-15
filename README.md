@@ -1,2 +1,2 @@
 # Kora
-Kora language
+Kora is a script programming language.
